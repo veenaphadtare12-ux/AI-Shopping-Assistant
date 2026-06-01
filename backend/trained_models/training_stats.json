@@ -1,0 +1,28 @@
+{
+  "timestamp": "2026-04-26T10:52:48.331183",
+  "total_products": 22195,
+  "dataset_stats": {
+    "amazon": {
+      "count": 1465,
+      "avg_rating": 4.093788395904436,
+      "avg_price": 3125.3108737201364
+    },
+    "myntra": {
+      "count": 5000,
+      "avg_rating": 2.5133,
+      "avg_price": 1796.8874
+    },
+    "flipkart": {
+      "count": 15730,
+      "avg_rating": 4.012873490146218,
+      "avg_price": 688.0706929434202
+    }
+  },
+  "model_stats": {
+    "tfidf_features": 5000,
+    "tfidf_matrix_shape": "(22195, 5000)",
+    "sentiment_mean": 0.09238866411353909,
+    "sentiment_std": 0.2588177352807812,
+    "value_score_mean": 0.8110290716397492
+  }
+}
