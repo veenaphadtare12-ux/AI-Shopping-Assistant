@@ -21,7 +21,7 @@ Integrates with the OpenAI API to read thousands of customer reviews and generat
 ###  Modern UI/UX
 Features a beautifully crafted, highly responsive frontend utilizing React, Vite, and modern glassmorphism aesthetics for dynamic side-by-side product comparisons.
 
-## 🛠️ Technology Stack
+##  Technology Stack
 *   **Backend:** Python 3.10+, FastAPI, Uvicorn, Pandas
 *   **Frontend:** React 19, Vite, Vanilla CSS
 *   **AI / Machine Learning:** OpenAI API, NLTK (VADER Sentiment Analysis), TF-IDF, Heuristic Search Algorithms
